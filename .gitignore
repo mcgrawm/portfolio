@@ -1,7 +1,9 @@
+examples/unity_pathfinding/Library/
 *.csproj
 *.sln
-UnityPathfindingExample/.vscode/
 UnityPathfindingExample/Library/
+UnityPathfindingExample/.vscode/
 UnityPathfindingExample/obj/
-UnityPathfindingExample/Temp/
-UnityPathfindingExample/UnityPackageManager/
+examples/unity_pathfinding/.vscode/
+examples/unity_pathfinding/obj/
+examples/unity_pathfinding/Temp/
