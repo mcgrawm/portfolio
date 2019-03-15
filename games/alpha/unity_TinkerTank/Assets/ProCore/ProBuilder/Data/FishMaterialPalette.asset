@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -770389242, guid: 4df21bd079886d84699ca7be1316c7a7, type: 3}
+  m_Name: FishMaterialPalette
+  m_EditorClassIdentifier: 
+  array:
+  - {fileID: 2100000, guid: 637217025d3cd084fbd752df83f8c76c, type: 2}
+  - {fileID: 2100000, guid: d8c9addfe17af22458ae72e3b5268dc0, type: 2}
+  - {fileID: 2100000, guid: e816601f01fd2bc4cb157a3860276602, type: 2}
+  - {fileID: 2100000, guid: 0797eb2f242b1424b8069177cd113af6, type: 2}
+  - {fileID: 2100000, guid: b49473717b3b3ba4bbf83bf42e4a2732, type: 2}
+  - {fileID: 2100000, guid: 52b25ac6fdfda1d48a162b7515cbb5c0, type: 2}
+  - {fileID: 2100000, guid: 6b34dee2b3b317d439dd81892723e681, type: 2}
+  - {fileID: 2100000, guid: f14080a0265a8e846b98838eca40befd, type: 2}
+  - {fileID: 2100000, guid: 46ce6892f5bbaba448a38124e5d79ff2, type: 2}
+  - {fileID: 2100000, guid: 918452b19dfd8e64a90394bd716cd05a, type: 2}
